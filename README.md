@@ -1,7 +1,7 @@
 ## Hi there 👋
  Hi, I’m ChadHolton.
  
-📫 How to reach me ... 📧 swayamshah66@gmail.com
+📫 How to reach me ... 📧 chadholton@qq.com
 
 😄 Pronouns: ... He/Him
 <!--
