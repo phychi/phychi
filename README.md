@@ -1,6 +1,8 @@
 ## Hi there 👋
- Hi, I’m @Swayam
+ Hi, I’m ChadHolton.
+ 
 📫 How to reach me ... 📧 swayamshah66@gmail.com
+
 😄 Pronouns: ... He/Him
 <!--
 **phychi/phychi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
