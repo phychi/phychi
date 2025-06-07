@@ -1,9 +1,7 @@
 ## Hi there 👋
- Hi, I’m ChadHolton.
- 
-📫 How to reach me ... 📧 chadholton@qq.com
-
-😄 Pronouns: ... He/Him
+- 👋 Hi, I’m ChadHolton.
+- 📫 How to reach me ... 📧 chadholton@qq.com
+- 😄 Pronouns: ... He/Him
 <!--
 **phychi/phychi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
