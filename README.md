@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 👋 Hi, I’m ChadHolton.
+- 👋 Hi, I’m ChadHolton.(My English is not good enough to support writing, so I use translation software.)
 - 📫 How to reach me ... 📧 chadholton@qq.com
 - 😄 Pronouns: ... He/Him
 <!--
