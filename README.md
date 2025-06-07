@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 👋 Hi, I’m ChadHolton.(My English is not good enough to support writing, so I use translation software.)
+- 👋 Hi, I’m ChadHolton.(This English name is an approximation of the pronunciation of my Chinese name.)
+- 🤔 My English is not good enough to support writing, so I use translation software.
 - 📫 How to reach me ... 📧 chadholton@qq.com
 - 😄 Pronouns: ... He/Him
 <!--
